@@ -1,0 +1,37 @@
+[
+  {
+    "dish": "Chicken",
+    "price": "%20",
+    "category": "Italian"
+  },
+  {
+    "dish": "Turkey",
+    "price": "%25",
+    "category": "Ugandan"
+  },
+
+  {
+    "dish": "Eboo",
+    "price": "%15",
+    "category": "SouthAfrican"
+  },
+  {
+    "dish": "Eboo",
+    "price": "%35",
+    "category": "Italian"
+    
+  },
+  {
+    "dish": "Matooke",
+    "price": "%23",
+    "category": "Ugandan"
+  },
+  {
+    "dish": "Malakwang",
+    "price": "%18",
+    "category": "Ugandan"
+  }
+
+
+  
+]
